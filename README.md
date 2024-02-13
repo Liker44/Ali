@@ -6,4 +6,4 @@ cd Ali
 
 ls
 
-python A.py
+python A.pyc
